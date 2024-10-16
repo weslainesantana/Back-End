@@ -1,0 +1,7 @@
+Meirylene Avelino reforçou a importância da cultura de segurança no dia a dia de todas as pessoas como forma de evitar golpes de engenharia social. Elabore pelo menos uma técnica empregada numa API Web que pode evitar com que usuários sejam vítimas de golpes de engenharia social.
+
+Resposta: 
+
+Uma técnica interessante para proteger os usuários contra golpes, é  utilizar o serviço de sites que analisam URL. Um exemplo citado na palestra foi o "Virus Total" que ajuda a evitar com que os usuários caiam em golpes de Phishing com sites clonados. 
+
+
