@@ -1,11 +1,9 @@
 package com.weslaine.exercicio13.services;
 
-import java.lang.foreign.Linker.Option;
 import java.util.List;
 import java.util.Optional;
 import java.util.Random;
 
-import org.mapstruct.ap.shaded.freemarker.core.ReturnInstruction.Return;
 import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Service;
 import org.springframework.web.server.ResponseStatusException;
